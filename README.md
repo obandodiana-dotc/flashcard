@@ -61,12 +61,6 @@ While this project originated as a personal learning initiative, pull requests a
 * Enhancing the front-end performance or accessibility (A11Y).
 * Adding simple interactive quizzes or grammar exercises.
 
----
-
-## 📜 License
-
-This project is distributed under the **MIT License**. See the `LICENSE` file for more details.
-
 ***
 
 **Viel Erfolg beim Deutschlernen!** (Good luck with your German learning!)
