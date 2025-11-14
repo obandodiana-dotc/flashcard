@@ -2,7 +2,6 @@
 
 **A self-contained, gamified web application for mastering German A1 fundamentals in 30 days. A personal project demonstrating pure front-end development and commitment to language learning.**
 
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Built with Vanilla JS](https://img.shields.io/badge/Tech-Vanilla_JS-yellow.svg)](https://developer.mozilla.org/en/docs/Web/JavaScript)
 [![CEFR Level Target](https://img.shields.io/badge/CEFR_Level-A1-orange.svg)](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions)
 
